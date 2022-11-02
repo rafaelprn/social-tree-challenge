@@ -1,5 +1,6 @@
 body {
-    background-color: E5E5E5;
+    /* background-color: E5E5E5; */
+    background-color: rgb(39, 39, 39);
     padding: 0;
     margin: 0;
     width: 100vw;
@@ -10,7 +11,7 @@ body {
 }
 
 .main-container {
-    background-color: rgba(186, 31, 62, 0.598);
+    background-color: #E5E5E5;
     height: 30em;
     width: 20em;
     text-align: center;
@@ -20,4 +21,6 @@ body {
 .picture img{
     width: 160px;
     border-radius: 50%;
+    padding: 4px;
+    border: 2px solid #BB99DD;
 }
